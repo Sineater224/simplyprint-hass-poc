@@ -1,0 +1,12 @@
+{
+  "domain": "simplyprint_custom",
+  "name": "SimplyPrint Custom",
+  "codeowners": ["@Sineater224"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/Sineater224/simplyprint-hacs-poc",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": ["aiohttp"],
+  "version": "1.0.0"
+}
